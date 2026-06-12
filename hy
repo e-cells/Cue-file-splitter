@@ -1,1 +1,1 @@
-hysteria2://54ad9837-4836-4f8b-b962-515a2a965f2c@v.19950519.xyz:16504?sni=v.19950519.xyz&alpn=h3&insecure=0&allowInsecure=0#54ad9837-singbox_hysteria2
+vless://be43bdcb-cd9d-49a2-933c-f69bc7693148@v.19950519.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=v.19950519.xyz&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=v.19950519.xyz#be43bdcb-VLESS_TCP%2FTLS_Vision
